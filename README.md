@@ -6,38 +6,34 @@ RAB.ipynb is an example notebook.  The notebook file RAB.ipynb sits within a dir
 
 In a file system it would look like this in the file system:
 
-RAB.ipynb
-Files
-  directory-a
-  directory-b
-  directory-c
+
 
 Each section in the script can be broken down (in brief). 
 
-## Import packages
+### Import packages
 import os
 
-## Where to start 
+### Where to start 
 /# Start here
 topdir = './files/'
 
-## Find filenames
+### Find filenames
 def ishidden(name):
 
-## Sort and weed files 
+### Sort and weed files 
 def mysort(names):
 
-## Print file list
+### Print file list
 def listfiles(topdir):
 
-## Print directory size
+### Print directory size
 def directorysize(topdir, path=True):
 
-## Calculate size
+### Calculate size
 def getsize(p):
 
-## Convert size
+### Convert size
 def convertsize(sizebytes):
 
-## Invoke functions 
+### Invoke functions 
 def main():
