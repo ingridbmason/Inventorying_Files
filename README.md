@@ -6,7 +6,7 @@ RAB.ipynb is an example notebook.  The notebook file RAB.ipynb sits within a dir
 
 In a file system it would look like this in the file system:
 
-
+![image](https://github.com/ingridbmason/Inventorying_Files/blob/master/inside_top_directory.png)
 
 Each section in the script can be broken down (in brief). 
 
