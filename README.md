@@ -6,7 +6,7 @@ RAB.ipynb is an example notebook.  The notebook file RAB.ipynb sits within a dir
 
 The RAB.ipynb file sits aside a directory named "files" with sub-directories named "directory-a" "directory-b" directory-c".
 
-In a file system it would look like this in the file system:
+In a file system it would look like this:
 
 ![image](https://github.com/ingridbmason/Inventorying_Files/blob/master/inside_top_directory.png)
 
@@ -17,6 +17,7 @@ import os
 
 ### Where to start 
 /# Start here
+
 topdir = './files/'
 
 ### Find filenames
